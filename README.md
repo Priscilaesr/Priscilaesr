@@ -8,7 +8,7 @@ Front-end Developer Student - Bachelor in Business Marketing.
 
 <div align="left">
   <a href="https://github.com/priscilaesr">
-  <img align="left""height="100em" alt="Pri-" src="https://github.com/Priscilaesr/Priscilaesr/blob/main/Prigifavatar.gif?raw=true"> 
+  <img align="left" alt="Pri-" src="https://github.com/Priscilaesr/Priscilaesr/blob/main/Prigifavatar.gif?raw=true"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscilaesr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscilaesr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
