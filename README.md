@@ -15,7 +15,7 @@ Front-end Developer Student - Bachelor in Business Marketing.
  
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Pri-" src="https://github.com/priscilaesr/priscilaesr/Prigifavatar.gif"> 
+  <img align="right" alt="Pri-" src="priscilaesr/Prigifavatar.gif"> 
 </div>
   
   ##
